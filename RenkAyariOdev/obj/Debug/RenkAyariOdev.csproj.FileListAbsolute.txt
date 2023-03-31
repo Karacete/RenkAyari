@@ -1,0 +1,11 @@
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\bin\Debug\RenkAyariOdev.exe.config
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\bin\Debug\RenkAyariOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\bin\Debug\RenkAyariOdev.pdb
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.csproj.AssemblyReference.cache
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.Form1.resources
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.Properties.Resources.resources
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.csproj.GenerateResource.cache
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.csproj.CoreCompileInputs.cache
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\RenkAyariOdev\RenkAyariOdev\obj\Debug\RenkAyariOdev.pdb
